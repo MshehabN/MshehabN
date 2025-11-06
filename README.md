@@ -7,7 +7,7 @@ Hi, I’m Mohammed Shehab, a Computer Programming student at Algonquin College w
 
 # Tech Stack:
 
-**languages**
+**languages:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,9 +42,7 @@ Hi, I’m Mohammed Shehab, a Computer Programming student at Algonquin College w
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 # GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=MshehabN&theme=dark&hide_border=false)<br/>
