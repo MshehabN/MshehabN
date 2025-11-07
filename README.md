@@ -2,9 +2,6 @@
 Hi, I’m Mohammed Shehab, a Computer Programming student at Algonquin College who enjoys building creative and practical tech solutions.<br><br>Outside of coding, I’m curious, detail oriented, and always looking for ways to learn and improve.
 
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-shehab2004900) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moe2004900@gmail.com) 
-
 # Tech Stack:
 
 **languages:**
